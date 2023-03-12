@@ -1,14 +1,14 @@
 # ProtoTerminal
 Autores: GABRIEL STONE, KENNEDY NOLASCO, ROBERT GARCIA
 Implementação de um terminal simples em C, ele possui alguns comandos básicos de um terminal
-#Comandos básicos
--ls – listar os elementos do diretório atual
--cd – Trocar o diretório atual
--pwd – imprimir o caminho completo do diretório atual
-#Modificadores 
+# Comandos básicos
+- ls – listar os elementos do diretório atual
+- cd – Trocar o diretório atual
+- pwd – imprimir o caminho completo do diretório atual
+# Modificadores 
 Além disso, ele também deve roda um programa cujo nome é digitado pelo usuário, e ficar parado até esse programa terminar.
 Ele também possui 4 modificadores para execução de processos, que são: ">", "<", "|" e "&"
-#Execução
+# Execução
 Cenários para a execução de programas:
 
 ./prog1 ou prog1 – roda prog1 normalmente
