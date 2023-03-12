@@ -1,5 +1,5 @@
 # ProtoTerminal
- Autores: GABRIEL STONE, KENNEDY NOLASCO, ROBERT GARCIA
+ Autores: GABRIEL STONE, KENNEDY NOLASCO, ROBERT GARCIA <br />
  Implementação de um terminal simples em C, ele possui alguns comandos básicos de um terminal
 # Comandos básicos
 - ls – listar os elementos do diretório atual
